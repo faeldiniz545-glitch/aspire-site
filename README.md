@@ -1,16 +1,15 @@
-# Aspire — Site
+# Aspire — pacote para publicação na Netlify
 
-Landing page criada com identidade visual em grafite, azul elétrico, violeta e verde-limão.
+Este pacote contém a versão estática pronta para publicação.
 
-## Como executar
+## Publicação
 
-```bash
-pnpm install
-pnpm run dev
-```
+1. Acesse o painel da Netlify.
+2. Escolha **Add new project** → **Deploy manually**.
+3. Envie o conteúdo desta pasta ou o arquivo `aspire-site-netlify-499.zip`.
 
-## Observações
+## Oferta atual
 
-- O background do hero está em `hero-background.png` e é referenciado no código pelo caminho `/manus-storage/sites-spark-hero_5ae9dfea.png` quando executado no WebDev.
-- Para rodar fora do WebDev, substitua essa referência em `client/src/index.css` por `/hero-background.png`.
-- O número do WhatsApp ainda é um placeholder e deve ser alterado em `client/src/pages/Home.tsx`.
+- De **R$899**
+- Por **R$499**
+- Pagamento único, sem mensalidade da Aspire.
